@@ -1,7 +1,7 @@
 # \<t-traveler-info\>
 
 
-##Demo Page
+## Demo Page
 
 http://Waiin-T.github.io/t-traveler-info/components/t-traveler-info/demo/
 ## Install the Polymer-CLI
